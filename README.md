@@ -254,11 +254,11 @@ Training or inference may require additional data files, model checkpoints, or c
 
 ### Segmentation Results
 
-![Lung nodule segmentation results](images/resultssegmentation.png)
+![Lung nodule segmentation results](images/resultsegmentation.png)
 
 ### Intra-Nodular Heterogeneity
 
-![Intra-nodular heterogeneity visualization](images/outputheterogeneity.png)
+![Intra-nodular heterogeneity visualization](images/outputhemogentiy.png)
 
 ## Limitations and Future Work
 
